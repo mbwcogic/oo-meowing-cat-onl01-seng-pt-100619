@@ -1,1 +1,2 @@
-maru = cat.new 
+class Cat 
+end
