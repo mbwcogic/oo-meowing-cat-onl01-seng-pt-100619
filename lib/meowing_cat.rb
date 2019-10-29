@@ -1,1 +1,1 @@
-## code your solution here. 
+maru = cat.new 
